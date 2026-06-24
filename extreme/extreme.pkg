@@ -1,0 +1,9 @@
+D 'extreme': Extreme value theory models: fitting and graphical diagnostics Use extreme With STATA 19
+D
+F extreme.ado
+F extreme.mata
+F extreme.sthlp
+F extreme_estimate.ado
+F extreme_p.ado
+F extreme_small.ado
+F lextreme.mlib
